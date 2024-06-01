@@ -1,3 +1,2 @@
 //lisez moi 
-ce ci est un exemple de gestion de version 
-que j'ai realisez
+ce ci est un exemple de gestion de version avec git
